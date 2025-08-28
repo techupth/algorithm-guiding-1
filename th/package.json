@@ -1,0 +1,22 @@
+{
+  "name": "algorithm-guiding",
+  "version": "1.0.0",
+  "description": "Algorithm practice exercises in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ex-1.js",
+    "ex1": "node ex-1.js",
+    "ex2": "node ex-2.js"
+  },
+  "keywords": [
+    "algorithms",
+    "javascript",
+    "practice"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
